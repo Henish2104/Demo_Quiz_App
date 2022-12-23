@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DemoQuizApp" parent="Theme.Design.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#fff</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#2196F3</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="button_cus_style" parent="Theme.Design.Light.NoActionBar">
+
+
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+
+    </style>
+</resources>
